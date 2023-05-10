@@ -1,2 +1,2 @@
-# dulceria
+# dulceria-mvc
 mi primera dulcería 
